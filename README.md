@@ -1,16 +1,11 @@
-### Hi there 👋
+Heya! I'm LinuxCat, an 18yo student at IUT Informatique in Nantes, France!\
+In university, I'm learning quite a lot of languages, including:
+- Golang
+- Kotlin
+- SQL
+- HTML+CSS
+- PHP
+- Python
 
-<!--
-**LinUwUxCat/LinUwUxCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to that, I also learned some languages such as C, C++ and C# myself!\
+You can explore some of my personal work in the below repositories - thanks for reading!
