@@ -1,10 +1,10 @@
 Heya! I'm LinuxCat, an 18yo student at IUT Informatique in Nantes, France!\
 In university, I'm learning quite a lot of languages, including:
-- Golang
+- Golang (and ebiten)
 - Kotlin
-- SQL
-- HTML+CSS
-- PHP
+- SQL (Oracle SQL and MySQL)
+- HTML+CSS (with a tiny bit of js if needed)
+- PHP (Primarily using codeigniter3)
 - Python
 
 In addition to that, I also learned some languages such as C, C++ and C# myself!\
