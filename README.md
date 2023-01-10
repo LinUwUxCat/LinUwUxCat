@@ -1,6 +1,6 @@
 Heya! I'm LinuxCat, an 18yo student at IUT Informatique in Nantes, France!\
 In university, I'm learning quite a lot of languages, including:
-- Golang (and ebiten)
+- Golang (with, additionally, ebiten)
 - Kotlin
 - SQL (Oracle SQL and MySQL)
 - HTML+CSS (with a tiny bit of js if needed)
