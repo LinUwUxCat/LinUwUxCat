@@ -8,4 +8,5 @@ In university, I'm learning quite a lot of languages, including:
 - Python
 
 In addition to that, I also learned some languages such as C, C++ and C# myself!\
-You can explore some of my personal work in the below repositories - thanks for reading!
+You can explore some of my personal work in the below repositories - thanks for reading!\
+[![trophy](https://github-profile-trophy.vercel.app/?username=LinUwUxCat)](https://github.com/ryo-ma/github-profile-trophy)
