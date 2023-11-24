@@ -1,4 +1,4 @@
-Heya! I'm LinuxCat, an 18yo student at IUT Informatique in Nantes, France!\
+Heya! I'm LinuxCat, a 19yo student at IUT Informatique in Nantes, France!\
 In university, I'm learning quite a lot of languages, including:
 - Golang (with, additionally, ebiten)
 - Kotlin
