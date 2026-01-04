@@ -1,4 +1,4 @@
-Heya! I'm LinuxCat, a French 20yo student, currently at ESGI Nantes in France.\
+Heya! I'm LinuxCat, a French 21yo student, currently at ESGI Nantes in France.\
 I'm studying web development, but also have quite a few personal projects you can find on this github account.
 
 
